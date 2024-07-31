@@ -19,7 +19,7 @@ You are working for an e-commerce company that offers bulk discounts to its cust
   - Node.js
 - Resources:
   - Course material on debugging
-- GitHub repository (provided by the instructor)
+- GitHub repository https://github.com/learn-co-curriculum/phase-0-js-debugging-lab-.git
 
 **Instructions**
 
